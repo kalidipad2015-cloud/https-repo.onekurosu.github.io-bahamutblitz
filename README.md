@@ -1,8 +1,8 @@
 # Kurosu Island
-Kurosu Island brings a new and simple way to enable and configure the Dynamic Island on older devices.
+Kurosu Island brings a tweak that adds a simple way to enable and configure the Dynamic Island on older devices.
 
 ## Features:
-- Enable/disable the Dynamic Island with the flip of a switch
+- Enable/disable the Dynamic Island with just 1 switch
 - Fix the position of the Dynamic Island to be under the notch as opposed to halfway under it
 - Set the position of the Dynamic Island to anywhere you want using custom X and Y offsets
 - Hide the Dynamic Island when not in use
@@ -11,9 +11,8 @@ Kurosu Island brings a new and simple way to enable and configure the Dynamic Is
 - Set the scale of the Dynamic Island to whatever size you like
 - Set the transparency of the Dynamic Island to exactly what you want
 - Customize the color of the Dynamic Island
-## Screenshots
 
-<img src="/Images/sc1.png" width="300" height="578"/> 
+
 
 **Disclaimer**
 
@@ -38,7 +37,7 @@ Some devices are currently set up using "fake" offsets calculated by setting the
  
 **Version/jailbreak compatibility**
 
-Full support for iOS 16.0 - 16.6.1 rootless or roothide (bootstrap + serotonin)
+Full support for iOS 16.x+ rootless or roothide (bootstrap + serotonin)
  
  
 **Coming soon:**
@@ -52,5 +51,5 @@ Full support for iOS 16.0 - 16.6.1 rootless or roothide (bootstrap + serotonin)
 
 ## Release Notes:
 
-1.0-b1:
+0.1b1
 - Initial beta release
