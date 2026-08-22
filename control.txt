@@ -1,9 +1,9 @@
-Package: com.ethxnn88.visibleisland
-Name: VisibleIsland
+Package: com.onekurosu.kurosuisland
+Name: Kurosu Island
 Version: 2.0
-Architecture: iphoneos-arm64e
-Description: Enable and fix Dynamic Island on older devices.
-Maintainer: ethxnn88
-Author: ethxnn88
+Architecture: iphoneos-arm64
+Description: Enable and Dynamic Island on notched devices.
+Maintainer: onekurosu
+Author: onekurosu
 Section: Tweaks
 Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, firmware (>= 16.0)
