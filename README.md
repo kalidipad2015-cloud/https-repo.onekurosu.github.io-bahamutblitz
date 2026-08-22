@@ -11,6 +11,10 @@ Kurosu Island brings a new and simple way to enable and configure the Dynamic Is
 - Set the scale of the Dynamic Island to whatever size you like
 - Set the transparency of the Dynamic Island to exactly what you want
 - Customize the color of the Dynamic Island
+## Screenshots
+
+<img src="/Images/sc1.png" width="300" height="578"/> 
+
 **Disclaimer**
 
 As of now, the option to fix the Dynamic Island position to directly under the notch is only officially supported on a few devices (list below), as I don't have a huge spectrum of devices to test on. If your device isn't fully compatible, use the custom positioning instead.
