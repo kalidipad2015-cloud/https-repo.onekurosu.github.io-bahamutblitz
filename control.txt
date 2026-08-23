@@ -6,4 +6,4 @@ Description: Enable and Dynamic Island on notched devices.
 Maintainer: onekurosu
 Author: onekurosu
 Section: Tweaks
-Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, firmware (>=15.0)
+Depends: mobilesubstrate (>= 0.9.5000), homescreen18 (rootless),Ersatz,LastLook,QuickAtcions,Encoreinfinitum, firmware (>=15.0)
