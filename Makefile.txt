@@ -9,11 +9,11 @@ ARCHS = arm64 arm64e
 
 include $(THEOS)/makefiles/common.mk
 
-TWEAK_NAME = VisibleIsland
+TWEAK_NAME = Kurosu Island
 
-VisibleIsland_FILES = Tweak.xm 
-VisibleIsland_CFLAGS = -fobjc-arc
+Kurosu_island_FILES = Tweak.xm 
+Kurosu_island_CFLAGS = -fobjc-arc
 
 include $(THEOS_MAKE_PATH)/tweak.mk
-SUBPROJECTS += visibleislandprefs
+SUBPROJECTS += kurosuislandprefs
 include $(THEOS_MAKE_PATH)/aggregate.mk
